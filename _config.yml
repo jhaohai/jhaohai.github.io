@@ -12,7 +12,7 @@ title : Williamburg
 tagline: 
 author :
   name : jhaohai
-  email : williamroot777@qq.com
+  email : jhaohai@foxmail.com
   github : jhaohai
   twitter : jhaohai
   feedburner : jhaohai
@@ -127,4 +127,4 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
+markdown: kramdown  
